@@ -1,6 +1,6 @@
 # GO JWT Middleware
 
-**NOTE:** There is just a one-liner change here. Check out the original project at the Auth0 report (https://github.com/auth0/go-jwt-middleware).
+**NOTE:** There is just a one-liner change here compared to the original project at the Auth0 report (https://github.com/auth0/go-jwt-middleware). And this may become irrelevant once v2 is released.
 
 ## Installing
 
