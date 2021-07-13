@@ -5,7 +5,7 @@
 ## Installing
 
 ````bash
-go get github.com/b-venter/go-jwt-middleware
+go get github.com/b-venter/auth0-go-jwt-middleware
 ````
 
 ## License
