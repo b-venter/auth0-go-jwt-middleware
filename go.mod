@@ -1,4 +1,4 @@
-module github.com/b-venter/auth0-go-jwt-middleware
+module auth0-go-jwt-middleware.go
 
 go 1.16
 
